@@ -344,6 +344,6 @@
   <div class="card">Preview 2</div>
   <div class="card">Preview 3</div>
 </section>
- s
+
 </body>
 </html>
